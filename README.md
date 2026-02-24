@@ -1,1 +1,1 @@
-# LabSW Chain of Responsibility Pattern
+# Lab SW Chain of Responsibility Pattern
